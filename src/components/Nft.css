@@ -1,0 +1,66 @@
+.container-nft{
+    background-color: hsl(217, 54%, 11%);
+    padding:20px;
+}
+.main-nft{
+    background-color:hsl(216, 50%, 16%) ;
+    Width:20%;
+    margin-left:370px;
+     border-radius: 10px;
+     padding:20px;
+     
+}
+.image-one{
+    margin:2% 2% 2% 2%;
+    width:90%;
+    height:1%;
+    border-radius: 10px;
+}
+#heading{
+    color:white;
+}
+.two-nft{
+    padding:5px;
+    display:flex;
+    gap:50px;
+    border-bottom: solid hsl(215, 32%, 27%) ;
+    margin:10px;
+}
+.two-left{
+    display:flex;
+    gap:9px;
+}
+.etherium{
+    padding-top: 15px;
+    width:13px;
+    height:16px;
+}
+.two-right{
+    color:hsl(215, 51%, 70%);
+    display:flex;
+    gap:10px;
+}
+.clock{
+    padding-top: 13px;
+    width:15px;
+    height:18px; 
+}
+.three{
+    color:hsl(215, 51%, 70%);
+    display:flex;
+    gap:10px;
+}
+.Avatar{
+    padding-top: 9px;
+    width:25px;
+    height:25px;
+}
+#i-heading{
+    color: hsl(178, 100%, 50%);
+}
+.span{
+    color:hsl(0, 0%, 100%);
+}
+#p{
+    color:hsl(215, 51%, 70%);
+}
